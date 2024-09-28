@@ -4,7 +4,7 @@ This repository is purely educational and serves as first approach to work with 
 
 Assets are organized in Jupyter Notebooks, which describe steps to take in each process, while code is executed.
 
-###### Learning Points
+## Topics
 
 - Introduction to tokenization, encoding-deconding process of LLMs
 - Working with datasets: load, modify, upload datasets on Hugging Face Hub
